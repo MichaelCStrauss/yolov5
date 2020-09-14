@@ -1,0 +1,128 @@
+Namespace(agnostic_nms=False, augment=False, classes=None, conf_thres=0.4, device='', img_size=640, iou_thres=0.5, output='inference/output', save_txt=True, source='test_dataset/**/*.png', update=False, view_img=False, weights=['runs/exp10/weights/last.pt'])
+Fusing layers... 
+image 1/120 /home/michael/Documents/yolov5/test_dataset/coke/101.png: 	label='coke' predicted_class='coke' confidence=0.8828125
+image 2/120 /home/michael/Documents/yolov5/test_dataset/coke/107.png: 	label='coke' predicted_class='coke' confidence=0.90771484375
+image 3/120 /home/michael/Documents/yolov5/test_dataset/coke/111.png: 	label='coke' predicted_class='coke' confidence=0.7490234375
+image 4/120 /home/michael/Documents/yolov5/test_dataset/coke/119.png: 	label='coke' predicted_class='coke' confidence=0.94140625
+image 5/120 /home/michael/Documents/yolov5/test_dataset/coke/120.png: 	label='coke' predicted_class='coke' confidence=0.818359375
+image 6/120 /home/michael/Documents/yolov5/test_dataset/coke/126.png: 	label='coke' predicted_class='coke' confidence=0.87451171875
+image 7/120 /home/michael/Documents/yolov5/test_dataset/coke/132.png: 	label='coke' predicted_class='coke' confidence=0.89697265625
+image 8/120 /home/michael/Documents/yolov5/test_dataset/coke/134.png: 	label='coke' predicted_class='coke' confidence=0.869140625
+image 9/120 /home/michael/Documents/yolov5/test_dataset/coke/137.png: 	label='coke' predicted_class='coke' confidence=0.89599609375
+image 10/120 /home/michael/Documents/yolov5/test_dataset/coke/154.png: 	label='coke' predicted_class='coke' confidence=0.857421875
+image 11/120 /home/michael/Documents/yolov5/test_dataset/coke/156.png: 	label='coke' predicted_class='coke' confidence=0.857421875
+image 12/120 /home/michael/Documents/yolov5/test_dataset/coke/157.png: 	label='coke' predicted_class='coke' confidence=0.8388671875
+image 13/120 /home/michael/Documents/yolov5/test_dataset/coke/165.png: 	label='coke' predicted_class='coke' confidence=0.85205078125
+image 14/120 /home/michael/Documents/yolov5/test_dataset/coke/168.png: 	label='coke' predicted_class='coke' confidence=0.90478515625
+image 15/120 /home/michael/Documents/yolov5/test_dataset/coke/169.png: 	label='coke' predicted_class='coke' confidence=0.86181640625
+image 16/120 /home/michael/Documents/yolov5/test_dataset/coke/171.png: 	label='coke' predicted_class='coke' confidence=0.83544921875
+image 17/120 /home/michael/Documents/yolov5/test_dataset/coke/172.png: 	label='coke' predicted_class='coke' confidence=0.83203125
+image 18/120 /home/michael/Documents/yolov5/test_dataset/coke/180.png: 	label='coke' predicted_class='coke' confidence=0.87939453125
+image 19/120 /home/michael/Documents/yolov5/test_dataset/coke/187.png: 	label='coke' predicted_class='coke' confidence=0.89892578125
+image 20/120 /home/michael/Documents/yolov5/test_dataset/coke/190.png: 	label='coke' predicted_class='coke' confidence=0.9296875
+image 21/120 /home/michael/Documents/yolov5/test_dataset/coke/191.png: 	label='coke' predicted_class='coke' confidence=0.912109375
+image 22/120 /home/michael/Documents/yolov5/test_dataset/coke/194.png: 	label='coke' predicted_class='coke' confidence=0.92724609375
+image 23/120 /home/michael/Documents/yolov5/test_dataset/coke/197.png: 	label='coke' predicted_class='coke' confidence=0.8544921875
+image 24/120 /home/michael/Documents/yolov5/test_dataset/coke/403.png: 	label='coke' predicted_class='coke' confidence=0.861328125
+image 25/120 /home/michael/Documents/yolov5/test_dataset/coke/412.png: 	label='coke' predicted_class='coke' confidence=0.8046875
+image 26/120 /home/michael/Documents/yolov5/test_dataset/coke/416.png: 	label='coke' predicted_class='coke' confidence=0.92236328125
+image 27/120 /home/michael/Documents/yolov5/test_dataset/coke/424.png: 	label='coke' predicted_class='coke' confidence=0.90576171875
+image 28/120 /home/michael/Documents/yolov5/test_dataset/coke/429.png: 	label='coke' predicted_class='coke' confidence=0.94580078125
+image 29/120 /home/michael/Documents/yolov5/test_dataset/coke/430.png: 	label='coke' predicted_class='coke' confidence=0.92578125
+image 30/120 /home/michael/Documents/yolov5/test_dataset/coke/453.png: 	label='coke' predicted_class='coke' confidence=0.90087890625
+image 31/120 /home/michael/Documents/yolov5/test_dataset/coke/455.png: 	label='coke' predicted_class='coke' confidence=0.908203125
+image 32/120 /home/michael/Documents/yolov5/test_dataset/coke/458.png: 	label='coke' predicted_class='coke' confidence=0.916015625
+image 33/120 /home/michael/Documents/yolov5/test_dataset/coke/465.png: 	label='coke' predicted_class='coke' confidence=0.9462890625
+image 34/120 /home/michael/Documents/yolov5/test_dataset/coke/468.png: 	label='coke' predicted_class='coke' confidence=0.85888671875
+image 35/120 /home/michael/Documents/yolov5/test_dataset/coke/472.png: 	label='coke' predicted_class='coke' confidence=0.9287109375
+image 36/120 /home/michael/Documents/yolov5/test_dataset/coke/478.png: 	label='coke' predicted_class='coke' confidence=0.91064453125
+image 37/120 /home/michael/Documents/yolov5/test_dataset/coke/480.png: 	label='coke' predicted_class='coke' confidence=0.900390625
+image 38/120 /home/michael/Documents/yolov5/test_dataset/coke/483.png: 	label='coke' predicted_class='coke' confidence=0.90185546875
+image 39/120 /home/michael/Documents/yolov5/test_dataset/coke/487.png: 	label='coke' predicted_class='coke' confidence=0.9033203125
+image 40/120 /home/michael/Documents/yolov5/test_dataset/coke/495.png: 	label='coke' predicted_class='coke' confidence=0.86669921875
+image 41/120 /home/michael/Documents/yolov5/test_dataset/neither/212.png: 	label='neither' prediction=neither
+image 42/120 /home/michael/Documents/yolov5/test_dataset/neither/226.png: 	label='neither' prediction=neither
+image 43/120 /home/michael/Documents/yolov5/test_dataset/neither/232.png: 	label='neither' prediction=neither
+image 44/120 /home/michael/Documents/yolov5/test_dataset/neither/238.png: 	label='neither' prediction=neither
+image 45/120 /home/michael/Documents/yolov5/test_dataset/neither/245.png: 	label='neither' prediction=neither
+image 46/120 /home/michael/Documents/yolov5/test_dataset/neither/247.png: 	label='neither' prediction=neither
+image 47/120 /home/michael/Documents/yolov5/test_dataset/neither/257.png: 	label='neither' prediction=neither
+image 48/120 /home/michael/Documents/yolov5/test_dataset/neither/258.png: 	label='neither' prediction=neither
+image 49/120 /home/michael/Documents/yolov5/test_dataset/neither/261.png: 	label='neither' prediction=neither
+image 50/120 /home/michael/Documents/yolov5/test_dataset/neither/263.png: 	label='neither' prediction=neither
+image 51/120 /home/michael/Documents/yolov5/test_dataset/neither/265.png: 	label='neither' prediction=neither
+image 52/120 /home/michael/Documents/yolov5/test_dataset/neither/267.png: 	label='neither' prediction=neither
+image 53/120 /home/michael/Documents/yolov5/test_dataset/neither/268.png: 	label='neither' prediction=neither
+image 54/120 /home/michael/Documents/yolov5/test_dataset/neither/270.png: 	label='neither' prediction=neither
+image 55/120 /home/michael/Documents/yolov5/test_dataset/neither/277.png: 	label='neither' prediction=neither
+image 56/120 /home/michael/Documents/yolov5/test_dataset/neither/278.png: 	label='neither' prediction=neither
+image 57/120 /home/michael/Documents/yolov5/test_dataset/neither/279.png: 	label='neither' prediction=neither
+image 58/120 /home/michael/Documents/yolov5/test_dataset/neither/280.png: 	label='neither' prediction=neither
+image 59/120 /home/michael/Documents/yolov5/test_dataset/neither/287.png: 	label='neither' prediction=neither
+image 60/120 /home/michael/Documents/yolov5/test_dataset/neither/288.png: 	label='neither' prediction=neither
+image 61/120 /home/michael/Documents/yolov5/test_dataset/neither/289.png: 	label='neither' prediction=neither
+image 62/120 /home/michael/Documents/yolov5/test_dataset/neither/292.png: 	label='neither' prediction=neither
+image 63/120 /home/michael/Documents/yolov5/test_dataset/neither/503.png: 	label='neither' prediction=neither
+image 64/120 /home/michael/Documents/yolov5/test_dataset/neither/509.png: 	label='neither' prediction=neither
+image 65/120 /home/michael/Documents/yolov5/test_dataset/neither/522.png: 	label='neither' prediction=neither
+image 66/120 /home/michael/Documents/yolov5/test_dataset/neither/523.png: 	label='neither' prediction=neither
+image 67/120 /home/michael/Documents/yolov5/test_dataset/neither/528.png: 	label='neither' prediction=neither
+image 68/120 /home/michael/Documents/yolov5/test_dataset/neither/536.png: 	label='neither' prediction=neither
+image 69/120 /home/michael/Documents/yolov5/test_dataset/neither/549.png: 	label='neither' prediction=neither
+image 70/120 /home/michael/Documents/yolov5/test_dataset/neither/558.png: 	label='neither' prediction=neither
+image 71/120 /home/michael/Documents/yolov5/test_dataset/neither/560.png: 	label='neither' prediction=neither
+image 72/120 /home/michael/Documents/yolov5/test_dataset/neither/565.png: 	label='neither' prediction=neither
+image 73/120 /home/michael/Documents/yolov5/test_dataset/neither/573.png: 	label='neither' prediction=neither
+image 74/120 /home/michael/Documents/yolov5/test_dataset/neither/579.png: 	label='neither' prediction=neither
+image 75/120 /home/michael/Documents/yolov5/test_dataset/neither/580.png: 	label='neither' prediction=neither
+image 76/120 /home/michael/Documents/yolov5/test_dataset/neither/583.png: 	label='neither' prediction=neither
+image 77/120 /home/michael/Documents/yolov5/test_dataset/neither/584.png: 	label='neither' prediction=neither
+image 78/120 /home/michael/Documents/yolov5/test_dataset/neither/585.png: 	label='neither' prediction=neither
+image 79/120 /home/michael/Documents/yolov5/test_dataset/neither/587.png: 	label='neither' prediction=neither
+image 80/120 /home/michael/Documents/yolov5/test_dataset/neither/596.png: 	label='neither' prediction=neither
+image 81/120 /home/michael/Documents/yolov5/test_dataset/sheep/11.png: 	label='sheep' predicted_class='sheep' confidence=0.87255859375
+image 82/120 /home/michael/Documents/yolov5/test_dataset/sheep/16.png: 	label='sheep' predicted_class='sheep' confidence=0.89404296875
+image 83/120 /home/michael/Documents/yolov5/test_dataset/sheep/26.png: 	label='sheep' predicted_class='sheep' confidence=0.9091796875
+image 84/120 /home/michael/Documents/yolov5/test_dataset/sheep/28.png: 	label='sheep' predicted_class='sheep' confidence=0.90283203125
+image 85/120 /home/michael/Documents/yolov5/test_dataset/sheep/305.png: 	label='sheep' predicted_class='sheep' confidence=0.8642578125
+image 86/120 /home/michael/Documents/yolov5/test_dataset/sheep/307.png: 	label='sheep' predicted_class='sheep' confidence=0.8681640625
+image 87/120 /home/michael/Documents/yolov5/test_dataset/sheep/31.png: 	label='sheep' predicted_class='sheep' confidence=0.91748046875
+image 88/120 /home/michael/Documents/yolov5/test_dataset/sheep/318.png: 	label='sheep' predicted_class='sheep' confidence=0.8857421875
+image 89/120 /home/michael/Documents/yolov5/test_dataset/sheep/326.png: 	label='sheep' predicted_class='sheep' confidence=0.9228515625
+image 90/120 /home/michael/Documents/yolov5/test_dataset/sheep/329.png: 	label='sheep' predicted_class='sheep' confidence=0.87060546875
+image 91/120 /home/michael/Documents/yolov5/test_dataset/sheep/334.png: 	label='sheep' predicted_class='sheep' confidence=0.89306640625
+image 92/120 /home/michael/Documents/yolov5/test_dataset/sheep/339.png: 	label='sheep' predicted_class='sheep' confidence=0.93115234375
+image 93/120 /home/michael/Documents/yolov5/test_dataset/sheep/344.png: 	label='sheep' predicted_class='sheep' confidence=0.77294921875
+image 94/120 /home/michael/Documents/yolov5/test_dataset/sheep/353.png: 	label='sheep' predicted_class='sheep' confidence=0.86279296875
+image 95/120 /home/michael/Documents/yolov5/test_dataset/sheep/356.png: 	label='sheep' predicted_class='sheep' confidence=0.87158203125
+image 96/120 /home/michael/Documents/yolov5/test_dataset/sheep/358.png: 	label='sheep' predicted_class='sheep' confidence=0.86962890625
+image 97/120 /home/michael/Documents/yolov5/test_dataset/sheep/361.png: 	label='sheep' predicted_class='sheep' confidence=0.85986328125
+image 98/120 /home/michael/Documents/yolov5/test_dataset/sheep/366.png: 	label='sheep' predicted_class='sheep' confidence=0.88720703125
+image 99/120 /home/michael/Documents/yolov5/test_dataset/sheep/368.png: 	label='sheep' predicted_class='sheep' confidence=0.8916015625
+image 100/120 /home/michael/Documents/yolov5/test_dataset/sheep/372.png: 	label='sheep' predicted_class='sheep' confidence=0.8671875
+image 101/120 /home/michael/Documents/yolov5/test_dataset/sheep/375.png: 	label='sheep' predicted_class='sheep' confidence=0.89013671875
+image 102/120 /home/michael/Documents/yolov5/test_dataset/sheep/379.png: 	label='sheep' predicted_class='sheep' confidence=0.88134765625
+image 103/120 /home/michael/Documents/yolov5/test_dataset/sheep/383.png: 	label='sheep' predicted_class='sheep' confidence=0.86962890625
+image 104/120 /home/michael/Documents/yolov5/test_dataset/sheep/387.png: 	label='sheep' predicted_class='sheep' confidence=0.88330078125
+image 105/120 /home/michael/Documents/yolov5/test_dataset/sheep/389.png: 	label='sheep' predicted_class='sheep' confidence=0.888671875
+image 106/120 /home/michael/Documents/yolov5/test_dataset/sheep/4.png: 	label='sheep' predicted_class='sheep' confidence=0.77880859375
+image 107/120 /home/michael/Documents/yolov5/test_dataset/sheep/41.png: 	label='sheep' predicted_class='sheep' confidence=0.8779296875
+image 108/120 /home/michael/Documents/yolov5/test_dataset/sheep/44.png: 	label='sheep' predicted_class='sheep' confidence=0.890625
+image 109/120 /home/michael/Documents/yolov5/test_dataset/sheep/48.png: 	label='sheep' predicted_class='sheep' confidence=0.8916015625
+image 110/120 /home/michael/Documents/yolov5/test_dataset/sheep/5.png: 	label='sheep' predicted_class='sheep' confidence=0.8916015625
+image 111/120 /home/michael/Documents/yolov5/test_dataset/sheep/50.png: 	label='sheep' predicted_class='sheep' confidence=0.87060546875
+image 112/120 /home/michael/Documents/yolov5/test_dataset/sheep/60.png: 	label='sheep' predicted_class='sheep' confidence=0.8974609375
+image 113/120 /home/michael/Documents/yolov5/test_dataset/sheep/63.png: 	label='sheep' predicted_class='sheep' confidence=0.86328125
+image 114/120 /home/michael/Documents/yolov5/test_dataset/sheep/69.png: 	label='sheep' predicted_class='incorrect' confidence=0.87646484375
+image 115/120 /home/michael/Documents/yolov5/test_dataset/sheep/74.png: 	label='sheep' predicted_class='sheep' confidence=0.90673828125
+image 116/120 /home/michael/Documents/yolov5/test_dataset/sheep/77.png: 	label='sheep' predicted_class='sheep' confidence=0.8759765625
+image 117/120 /home/michael/Documents/yolov5/test_dataset/sheep/80.png: 	label='sheep' predicted_class='sheep' confidence=0.904296875
+image 118/120 /home/michael/Documents/yolov5/test_dataset/sheep/89.png: 	label='sheep' predicted_class='sheep' confidence=0.888671875
+image 119/120 /home/michael/Documents/yolov5/test_dataset/sheep/9.png: 	label='sheep' predicted_class='sheep' confidence=0.8818359375
+image 120/120 /home/michael/Documents/yolov5/test_dataset/sheep/93.png: 	label='sheep' predicted_class='sheep' confidence=0.88671875
+Results saved to inference/output
+Done. (2.654s)
+num_correct=119, total_images=120
+*********************************
+=> Accuracy of the network: 99 %
+*********************************
